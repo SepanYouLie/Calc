@@ -22,7 +22,7 @@ public class Parse
         public String get()
 	{
             /*Массив возможных римских чисел.*/
-            String[] rim = {"0","I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","","XIV","XV","XVI","","XVIII","","XX","XXI","","","XXIV","XXV",""
+            String[] rim = {"0","I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII","XIV","XV","XVI","XVII","XVIII","XIX","XX","XXI","","","XXIV","XXV",""
             ,"XXVII","XXVIII","","XXX","","XXXII","","","XXXV","XXXVI","","","","XL","","XLII","","","XLV","","","XLVIII","IL","L","","","","LIV","","LVI","",""
             ,"","LX","","","LXIII","LXIV","","","","","","LXX","","LXXII","","","","","","","","LXXX","LXXXI","","","","","","","","","XC","","","","","","",""
             ,"","","C"};
